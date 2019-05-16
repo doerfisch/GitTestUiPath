@@ -985,9 +985,9 @@
     "restore": {
       "projectUniqueName": "GetInformation",
       "projectName": "GetInformation",
-      "projectPath": "C:\\Users\\SebastianSchulerBoyd\\Documents\\UiPath\\GetInformation\\.local",
+      "projectPath": "C:\\Users\\SebastianSchulerBoyd\\Documents\\GitHub\\UiPath\\GitTestUiPath\\GetInformation\\.local",
       "packagesPath": "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SebastianSchulerBoyd\\Documents\\UiPath\\GetInformation\\.local"
+      "outputPath": "C:\\Users\\SebastianSchulerBoyd\\Documents\\GitHub\\UiPath\\GitTestUiPath\\GetInformation\\.local"
     },
     "frameworks": {
       "net461": {

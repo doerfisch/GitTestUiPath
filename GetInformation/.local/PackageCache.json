@@ -2,6 +2,16 @@
   "Packages": [
     {
       "Package": {
+        "Id": "Microsoft.Activities.Extensions",
+        "Version": "2.0.6.9"
+      },
+      "Assemblies": [
+        "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\microsoft.activities.extensions/2.0.6.9\\lib/Net45/Microsoft.Activities.Extensions.Design.dll",
+        "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\microsoft.activities.extensions/2.0.6.9\\lib/Net45/Microsoft.Activities.Extensions.dll"
+      ]
+    },
+    {
+      "Package": {
         "Id": "UiPath.Excel.Activities",
         "Version": "2.4.6884.25683"
       },
@@ -70,10 +80,10 @@
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/Caliburn.Micro.Platform.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\caliburn.micro/3.0.1\\lib/net45/System.Windows.Interactivity.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\caliburn.micro.core/3.0.1\\lib/net45/Caliburn.Micro.dll",
-        "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
@@ -95,16 +105,6 @@
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\uipath.vision/1.2.0\\lib/net452/UiPath.Vision.Core.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\uipath.vision/1.2.0\\lib/net452/UiPath.Vision.Package.dll",
         "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\uipath.vision/1.2.0\\lib/net452/UiPath.Vision.dll"
-      ]
-    },
-    {
-      "Package": {
-        "Id": "Microsoft.Activities.Extensions",
-        "Version": "2.0.6.9"
-      },
-      "Assemblies": [
-        "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\microsoft.activities.extensions/2.0.6.9\\lib/Net45/Microsoft.Activities.Extensions.Design.dll",
-        "C:\\Users\\SebastianSchulerBoyd\\.nuget\\packages\\microsoft.activities.extensions/2.0.6.9\\lib/Net45/Microsoft.Activities.Extensions.dll"
       ]
     }
   ],
